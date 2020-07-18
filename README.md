@@ -37,3 +37,5 @@ I love programming and I love Swift.
 ### My GitHub Stats
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
+
+⭐️ From [L1cardo](https://github.com/L1cardo)
