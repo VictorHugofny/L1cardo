@@ -1,4 +1,4 @@
-![me](https://cdn.jsdelivr.net/gh/L1cardo/L1cardo/assets/me.gif)
+![me](https://cdn.jsdelivr.net/gh/L1cardo/L1cardo@master/assets/me.gif)
 
 ## Hey 👋, I'm Albert Abdilim
 
